@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AKHIL INFOGRAPHS</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .gall-cont{
+            margin-top: 120px;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        div.gallery {
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 370px;
+          box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+        }
+        
+        div.gallery:hover {
+          border: 1px solid #777;
+        }
+        
+        div.gallery img {
+          width: 100%;
+          height: auto;
+        }
+        
+        div.desc {
+          padding: 15px;
+          text-align: center;
+        }
+        </style>
+</head>
+<body>
+    <div class="top">
+        <header>
+            <nav>
+                <h2>LOGO</h2>
+                <div class="nav-list">
+                    <a href="index.html">home</a>
+                    <a href="#about">about</a>
+                    <a href="contact.html">contact</a>
+                    <a href="info.html">INFOGRAPHS</a>
+                    
+                </div>
+                <form action="index.html">
+                    <input type="text" placeholder="Search.." name="search">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                  </form>
+            </nav>
+        </header>
+    </div>
+  <div class="gall-cont">
+        
+<div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740" download="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740">
+      <img src="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d" download="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d">
+      <img src="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740 downloadhttps://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740">
+      <img src="https://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740">
+      <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740">
+      <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" download="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740">
+      <img src="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826" download="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826">
+      <img src="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+  </div>      
+  <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740" download="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740">
+        <img src="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740" alt="Cinque Terre" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>
+    
+    <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d" download="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d">
+        <img src="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d" alt="Forest" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>
+    
+    <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740 downloadhttps://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740">
+        <img src="https://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740" alt="Northern Lights" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>
+    
+    <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740">
+        <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" alt="Mountains" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>
+  
+    <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740">
+        <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" alt="Mountains" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>
+  
+    <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" download="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740">
+        <img src="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" alt="Mountains" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>
+  
+    <div class="gallery">
+      <a target="_blank" href="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826" download="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826">
+        <img src="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826" alt="Mountains" width="600" height="400">
+      </a>
+      <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+    </div>      
+    <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740" download="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740">
+          <img src="https://img.freepik.com/free-vector/professional-steps-infographic_52683-26908.jpg?t=st=1650446648~exp=1650447248~hmac=e9f500b1a70e29ff3d0a297bed2f7469a21a956969160a2d932cad0562553af7&w=740" alt="Cinque Terre" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+      
+      <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d" download="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d">
+          <img src="https://img.freepik.com/free-vector/flat-design-steps-infographic-template_23-2148892755.jpg?w=740&t=st=1650449976~exp=1650450576~hmac=5acbbe180337d661385b5cfcc3f87bafdfbd3af171692a6be977f819a5ce923d" alt="Forest" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+      
+      <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740 downloadhttps://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740">
+          <img src="https://img.freepik.com/free-vector/gradient-style-process-infographic_23-2149031504.jpg?t=st=1650449976~exp=1650450576~hmac=277e37cae107b94be756be6a9fe2c150f906beaaedf1abd861cc151db99d5289&w=740" alt="Northern Lights" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+      
+      <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740">
+          <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_23-2148983900.jpg?w=740" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+    
+      <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" download="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740">
+          <img src="https://img.freepik.com/free-vector/linear-flat-table-contents-infographic_52683-63956.jpg?w=740" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+    
+      <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" download="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740">
+          <img src="https://img.freepik.com/free-vector/gradient-circular-diagram-infographic_52683-64092.jpg?w=740" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+    
+      <div class="gallery">
+        <a target="_blank" href="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826" download="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826">
+          <img src="https://img.freepik.com/free-vector/gradient-process-infographic-template_52683-65835.jpg?w=826" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum ea, dolorem fuga accusantium repellat architecto? Tenetur.</div>
+      </div>
+  </div>
+  
+</body>
+</html>
